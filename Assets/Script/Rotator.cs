@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Rotator : MonoBehaviour {
 
-    public float speed=100f;
+    public float speed = 100f;
 
 	// Use this for initialization
 	void Start () {
-		
+		transform.Rotate(0f, 0f, speed * Time.deltaTime);
 	}
 	
 	// Update is called once per frame

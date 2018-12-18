@@ -6,8 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/sence/aa practice.unity
-    guid: d7c1e5b88fc17ad4e8f152ef8cfe1784
-  - enabled: 1
     path: Assets/sence/menu.unity
     guid: bf2d8391a06780847ac71a0b59066219
+  - enabled: 1
+    path: Assets/sence/aa practice.unity
+    guid: d7c1e5b88fc17ad4e8f152ef8cfe1784
+  m_configObjects: {}
